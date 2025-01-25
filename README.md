@@ -51,7 +51,7 @@ Blood Bank is a web application developed using the MERN (MongoDB, Express.js, R
 
 ## Blood donor
 ![Image](https://github.com/user-attachments/assets/56a7c467-366a-4601-b2f4-9853422a2976)
-## Donor and Recipient
+## Donor and Recipient Records
 ![Image](https://github.com/user-attachments/assets/b8ff4182-b973-401b-96fd-f095fe1cba94)
 ## blood Group 
 ![Image](https://github.com/user-attachments/assets/aaba61d0-b72f-4cd3-887c-41a4dab7c94e)
