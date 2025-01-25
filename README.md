@@ -49,6 +49,7 @@ Blood Bank is a web application developed using the MERN (MongoDB, Express.js, R
 - Backend: Deployed on Render.
 - Frontend: Deployed on Netlify.
 
+![Image](https://github.com/user-attachments/assets/56a7c467-366a-4601-b2f4-9853422a2976)
 ## Screenshots
 ![Alt text](![image](https://github.com/user-attachments/assets/d43a632a-d682-4ee8-8f2c-98d4b77aef8c))
 ![Alt text](screenshots/blood1.png "2")
